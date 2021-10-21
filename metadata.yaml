@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Braddon, Mary E.
     gutenberg_agent_id: '53818'
     url: http://www.gutenberg.org/2009/agents/53818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66457#Hanen-salaisuutensa
 gutenberg_issued: '2021-10-03'
 identifiers:
   gutenberg: '66457'
